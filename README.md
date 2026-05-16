@@ -242,3 +242,4 @@ Then open your browser and go to: \*\*http://localhost:5000\*\*
 
 \*\*Soumyojit\*\* — \[GitHub](https://github.com/soumyojit868)
 
+https://drive.google.com/file/d/1m7wdnbRmtVoC9VPbM-55cbqGzDTBUqaq/view?usp=drive_link - for model download
