@@ -1,6 +1,6 @@
-venv/
-__pycache__/
-*.pyc
-.env
 model_weights/
 *.h5
+venv/
+uploads/
+__pycache__/
+*.pyc
